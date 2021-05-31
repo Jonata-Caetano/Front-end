@@ -1,0 +1,51 @@
+
+
+#tabela{
+    height:auto;
+    border:1px solid #000;
+    float:center;
+    padding:10px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+
+table{
+    width: 100%;
+    text-align: left;
+}
+
+#descontos{
+    color: red;  
+    font-weight: lighter;
+}
+
+#totalDescontos{
+    color: red;
+    font-weight: bolder;
+}
+
+#proventos{
+    color:#28B463;
+    font-weight: lighter;
+   
+}
+
+#totalProventos{
+    color: #28B463;
+    font-weight: bolder;
+}
+
+.soma {
+    color: #28B463;
+}
+
+.menos{
+    color: red;
+}
+
+.exclamacao{
+    color: #425D8D;
+}
+
+
